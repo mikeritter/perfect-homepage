@@ -1,12 +1,12 @@
 {
   "name": "perfect-homepage",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "a simple template for a homepage layout built with bootstrap 5.3",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mike Ritter",
   "license": "ISC"
 }
